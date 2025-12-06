@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @pontasouta
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+こんにちは 私はos開発やcが専門ですあとは数学とかもです
+まずは今やってるプロジェクトを書きます
+{
+まずos開発(完全自作)
+}
+少なくてすみません
+ですがos開発の進捗は少しは書いときます
+現在はmallocをオマージュしたsmalloc(sはsystemの役)を開発しています
 
-<!---
-pontasouta/pontasouta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+まーこんなしょうもない文章に付き合ってくれてありがとうございます
+
+英語バージョン
