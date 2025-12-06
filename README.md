@@ -14,3 +14,8 @@ Hello! I mainly focus on OS development and C programming, and I’m also intere
 Currently, my main project is fully hand-crafted OS development. I know the progress is small, but I’d like to share it: right now, I’m creating “smalloc” (system malloc), inspired by malloc.
 
 Thank you for reading this kind of trivial introduction and for your patience!
+
+場所（Location）japan 日本
+呼び名 パソタ name Pasota
+
+
